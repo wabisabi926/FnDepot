@@ -65,8 +65,8 @@
     "platform": "all",
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
     "labels": "docker,工具,网盘",
-    "version": "0.8.0",
-    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/cloudsaver-0.8.0-all.fpk",
+    "version": "0.8.1",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/cloudsaver-0.8.1-all.fpk",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -80,7 +80,7 @@
     "platform": ["x86", "arm"],
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。",
     "labels": "原生,nodejs,网盘",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -89,10 +89,10 @@
     "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/CloudSaver-0.8.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/CloudSaver-0.8.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/CloudSaver-0.8.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/CloudSaver-0.8.1-arm.fpk"
       }
     }
    },
@@ -289,19 +289,19 @@
     "platform": ["x86", "arm"],
     "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。",
     "labels": "原生,nodejs,监控",
-    "version": "2.2.0-2",
+    "version": "2.2.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "38",
-    "changelog": "修复环境错误",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/uptime-kuma-2.2.0-2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/uptime-kuma-2.2.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/uptime-kuma-2.2.0-2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/uptime-kuma-2.2.1-arm.fpk"
       }
     }
    },
@@ -366,19 +366,19 @@
     "platform": ["x86", "arm"],
     "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目结合nginx和nginx-ui，为飞牛OS特化构建，可切换主线和稳定分支。",
     "labels": "原生,工具,网页",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "55",
-    "changelog": "x86、arm版本拆分，切换非root运行，添加nginx-ui开关",
+    "changelog": "更新nginx主线版、nginx-ui版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Nginx-1.1.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/Nginx-1.1.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Nginx-1.1.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.17/Nginx-1.1.1-arm.fpk"
       }
     }
    },
