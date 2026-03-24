@@ -401,19 +401,19 @@
     "platform": ["x86", "arm"],
     "desc": "番茄小说下载器不精简版本，支持在线更新。",
     "labels": "原生,工具,下载",
-    "version": "2.3.5",
+    "version": "2.3.6",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "3.9",
-    "changelog": "添加更新代理，更新本体版本",
+    "size": "4",
+    "changelog": "添加更新代理开关，配置代理更灵活，更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Tomato-2.3.5-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Tomato-2.3.6-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Tomato-2.3.5-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Tomato-2.3.6-arm.fpk"
       }
     }
    },
