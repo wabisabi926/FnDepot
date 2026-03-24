@@ -2,5 +2,5 @@
 ❤️大部分项目都是二进制+webui，已支持Fndepot商店x86、arm双版本源<br>
 ✅️点击链接加入群聊，反馈bug【FnDepot】：https://qm.qq.com/q/urCWH0aRYm<br>
 ⭐FnDepot作者源有效列表：https://github.com/710850609/FnDepot/blob/main/repo_list.txt
-百度网盘分流：https://pan.baidu.com/s/10MSoAqqhxB8q-9nSlQm0jQ?pwd=nrec<br>
-夸克网盘分流：https://pan.quark.cn/s/faef9924fcfb<br>提取码：1YWh
+☁️百度网盘分流：https://pan.baidu.com/s/10MSoAqqhxB8q-9nSlQm0jQ?pwd=nrec<br>
+💡夸克网盘分流：https://pan.quark.cn/s/faef9924fcfb🔑提取码：1YWh
