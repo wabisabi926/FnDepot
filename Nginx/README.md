@@ -1,1 +1,1 @@
-使用方法：<br>1.webui：完成nginx-ui配置和web服务添加，完成后可关闭nginx-ui节省内存。<br>2.配置文件：应用文件/etc/conf.d目录修改default.conf或添加conf。<br>应用文件/nginx可放置网页资源。更多使用说明可参考nginx-ui和nginx官方文档。<br>
+🐮Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。<br>❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。<br>⭐使用方法：<br>✅️webui配置：完成nginx-ui配置和web服务添加，完成后可关闭nginx-ui节省内存。<br>✅️conf文件配置：应用文件/etc/conf.d目录修改default.conf或添加conf。<br>💡应用文件/nginx可放置网页资源。更多使用说明可参考<a href="https://nginxui.com/zh_CN/guide/about.html" target="_blank">nginx-ui文档</a>和<a href="https://nginx.org/en/docs/" target="_blank">nginx官方文档</a><br>
