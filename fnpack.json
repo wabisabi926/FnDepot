@@ -2,22 +2,22 @@
   "Fluxor": {
     "display_name": "Fluxor",
     "platform": ["x86", "arm"],
-    "desc": "基于clash系Mihomo内核的代理软件，内置MetacubeXD和zashboard面板，方便、快捷地切换代理节点。",
+    "desc": "🐱基于clash系Mihomo内核的代理软件，内置MetacubeXD和zashboard面板，方便、快捷地切换代理节点。",
     "labels": "原生,工具,网络",
-    "version": "1.3.3",
+    "version": "1.4.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "44",
-    "changelog": "修正zashboard面板更新故障，删除过时规则集，移动面板目录，完善用户向导",
+    "changelog": "自定义节点前缀、订阅更新间隔和节点健康检查间隔，本次更新需重新配置config，仔细填写",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.23/Fluxor-1.3.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Fluxor-1.4.0-x86.fpk"
       },
       "arm": {
         "size": "17",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.23/Fluxor-1.3.3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Fluxor-1.4.0-arm.fpk"
       }
      }
     },
