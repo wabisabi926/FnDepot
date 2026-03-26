@@ -1,0 +1,1 @@
+🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。<br>💡应用强制https访问，强烈建议使用nginx或者lucky反代并开启tls加密访问<br>

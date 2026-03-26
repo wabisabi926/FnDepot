@@ -413,6 +413,7 @@
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Tomato-2.3.7-x86.fpk"
       },
       "arm": {
+        "changelog": "上游已构建musl版本，修复运行故障",
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Tomato-2.3.7-arm.fpk"
       }
     }
@@ -449,6 +450,27 @@
       },
       "arm": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/asdf-0.18.0-arm.fpk"
+      }
+    }
+   },
+  "Vaultwarden": {
+    "display_name": "Vaultwarden密钥管理器",
+    "platform": ["x86", "arm"],
+    "desc": "🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。",
+    "labels": "原生,工具,安全",
+    "version": "1.35.4",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "41",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.26/Vaultwarden-1.35.4-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.26/Vaultwarden-1.35.4-arm.fpk"
       }
     }
    },
