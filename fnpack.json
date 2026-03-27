@@ -4,28 +4,28 @@
     "platform": ["x86", "arm"],
     "desc": "🐱基于clash系Mihomo内核的代理软件，内置MetacubeXD和zashboard面板，方便、快捷地切换代理节点。",
     "labels": "原生,工具,网络",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "44",
-    "changelog": "自定义节点前缀、订阅更新间隔和节点健康检查间隔，本次更新需重新配置config，仔细填写",
+    "size": "48",
+    "changelog": "添加轻量版分流规则，更新zashbord，本次更新需重新配置config",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Fluxor-1.4.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.27/Fluxor-1.4.1-x86.fpk"
       },
       "arm": {
-        "size": "17",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.25/Fluxor-1.4.0-arm.fpk"
+        "size": "21",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.27/Fluxor-1.4.1-arm.fpk"
       }
      }
     },
   "UnlockMusic": {
     "display_name": "UnlockMusic",
     "platform": "all",
-    "desc": "在浏览器中解锁加密的音乐文件（QQ音乐、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜",
-    "labels": "原生,网页,工具",
+    "desc": "🎶在浏览器中解锁加密的音乐文件（QQ音乐*、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜",
+    "labels": "原生,音乐,工具",
     "version": "1.10.8-2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
@@ -63,8 +63,8 @@
   "cloudsaver": {
     "display_name": "CloudSaver",
     "platform": "all",
-    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
-    "labels": "docker,工具,网盘",
+    "desc": "☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
+    "labels": "docker,搜索,网盘",
     "version": "0.8.2",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.21/cloudsaver-0.8.2-all.fpk",
     "distributor": "shuangji66",
@@ -78,8 +78,8 @@
   "CloudSaver": {
     "display_name": "CloudSaver",
     "platform": ["x86", "arm"],
-    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。",
-    "labels": "原生,nodejs,网盘",
+    "desc": "☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。",
+    "labels": "原生,搜索,网盘",
     "version": "0.8.2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
@@ -99,7 +99,7 @@
   "Filebrowser": {
     "display_name": "Filebrowser",
     "platform": ["x86", "arm"],
-    "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
+    "desc": "📂文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "原生,工具,文件",
     "version": "2.62.1",
     "distributor": "shuangji66",
@@ -155,7 +155,7 @@
   "BitMeteor": {
     "display_name": "BitMeteor",
     "platform": "all",
-    "desc": "BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。",
+    "desc": "☄️BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。",
     "labels": "原生,下载,工具",
     "version": "1.2.0",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/BitMeteor-1.2.0-all.fpk",
@@ -169,7 +169,7 @@
   "Teamspeaker": {
     "display_name": "Teamspeaker",
     "platform": "x86",
-    "desc": "Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
+    "desc": "👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
     "labels": "原生,语音,工具",
     "version": "3.13.7",
     "distributor": "shuangji66",
@@ -182,7 +182,7 @@
   "EasyTier": {
     "display_name": "EasyTier",
     "platform": ["x86", "arm"],
-    "desc": "一个简单、安全、去中心化的异地组网方案，支持自定义用户名、双模式启动，不定期构建最新主线版本。",
+    "desc": "🌏一个简单、安全、去中心化的异地组网方案，支持自定义用户名、双模式启动，不定期构建最新主线版本。",
     "labels": "原生,网络,工具",
     "version": "2.5.0-3",
     "distributor": "shuangji66",
@@ -322,7 +322,7 @@
   "Reader": {
     "display_name": "Reader",
     "platform": "all",
-    "desc": "Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数。💡推荐搭配java-openj9降低内存占用",
+    "desc": "📚Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数。💡推荐搭配java-openj9降低内存占用",
     "labels": "JAVA,阅读,工具",
     "version": "3.2.14-2",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Reader-3.2.14-2-all.fpk",
@@ -385,21 +385,21 @@
   "Read": {
     "display_name": "轻阅读",
     "platform": "all",
-    "desc": "轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。需安装Java25",
+    "desc": "📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡需安装Java25",
     "labels": "JAVA,工具,阅读",
-    "version": "3.4.4",
-    "download_url": "https://github.com/shuangji66/read/releases/download/3.4.4/Read-3.4.4-all.fpk",
+    "version": "3.4.5",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.27/Read-3.4.5-all.fpk",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "103",
-    "changelog": "更新官方版本，适配时光的导入时的自定义分组，修复fndepot下载问题"
+    "changelog": "更新官方版本"
    },
   "Tomato": {
     "display_name": "番茄小说下载器",
     "platform": ["x86", "arm"],
-    "desc": "番茄小说下载器不精简版本，支持在线更新。",
+    "desc": "🍅番茄小说下载器不精简版本，支持在线更新。",
     "labels": "原生,工具,下载",
     "version": "2.3.7",
     "distributor": "shuangji66",
@@ -477,7 +477,7 @@
   "Navidrome": {
     "display_name": "Navidrome音乐播放器",
     "platform": ["x86", "arm"],
-    "desc": "Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏。root运行，支持转码播放。",
+    "desc": "🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏。root运行，支持转码播放。",
     "labels": "原生,工具,音乐",
     "version": "0.60.3",
     "distributor": "shuangji66",
@@ -498,7 +498,7 @@
   "DDNS-GO": {
     "display_name": "DDNS-GO",
     "platform": ["x86", "arm"],
-    "desc": "自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
+    "desc": "🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
     "labels": "原生,工具,网络",
     "version": "6.16.2",
     "distributor": "shuangji66",
