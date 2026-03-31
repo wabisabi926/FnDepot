@@ -1,0 +1,1 @@
+⭐使用说明：Java未写入环境变量，调用需设置环境变量"export PATH=/var/apps/java-17-openj9/target/bin:$PATH
