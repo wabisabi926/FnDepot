@@ -79,7 +79,7 @@
     "platform": ["x86", "arm"],
     "desc": "📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，root运行，注意数据安全。",
     "labels": "原生,工具,文件",
-    "version": "2.62.2",
+    "version": "2.62.3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -88,10 +88,10 @@
     "changelog": "更新官方版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.29/Filebrowser-2.62.2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/Filebrowser-2.62.3-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.29/Filebrowser-2.62.2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/Filebrowser-2.62.3-arm.fpk"
       }
     }
    },
@@ -576,19 +576,19 @@
     "platform": ["x86", "arm"],
     "desc": "🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
     "labels": "原生,工具,网络",
-    "version": "6.16.2",
+    "version": "6.16.4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "4.5",
-    "changelog": "更新上游版本，新增雨云dns服务商",
+    "changelog": "更新上游版本，新增Tnethk服务商",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/DDNS-GO-6.16.2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/DDNS-GO-6.16.4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/DDNS-GO-6.16.2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/DDNS-GO-6.16.4-arm.fpk"
       }
     }
    }
