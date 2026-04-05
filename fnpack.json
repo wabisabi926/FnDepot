@@ -70,10 +70,10 @@
     "changelog": "使用action构建并打包，解决nodejs模块问题",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/CloudSaver-0.8.2-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.5/CloudSaver-0.8.2-1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.4/CloudSaver-0.8.2-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.5/CloudSaver-0.8.2-1-arm.fpk"
       }
     }
   },
