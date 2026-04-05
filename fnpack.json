@@ -559,7 +559,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "314",
-    "changelog": "初始版本",
+    "changelog": "补全lfs缺失，使用action构建并更新",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.5/Git-2.53.0-1-x86.fpk"
