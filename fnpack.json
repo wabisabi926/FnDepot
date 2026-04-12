@@ -222,7 +222,7 @@
       "x86",
       "arm"
     ],
-    "desc": "🌏一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。",
+    "desc": "🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。",
     "labels": "原生,网络,工具",
     "version": "2.6.0-1",
     "distributor": "shuangji66",
@@ -244,7 +244,7 @@
     "display_name": "EasyTier",
     "platform": "all",
     "desc": "🌐EasyTier是一个简单、安全、去中心化的异地组网方案。支持自定义web控制台用户名。",
-    "labels": "原生,网络,工具",
+    "labels": "docker,网络,工具",
     "version": "2.6.0",
     "isdocker": "true",
     "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.12/easytier-2.6.0-all.fpk",
