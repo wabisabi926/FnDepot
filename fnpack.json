@@ -333,7 +333,7 @@
       "x86",
       "arm"
     ],
-    "desc": "🧲Transmission是一款简单快速的BitTorrent客户端。可以通过其web界面或专用应用程序远程控制它。内置TrguiNG第三方汉化webui。",
+    "desc": "🧲Transmission是一款简单快速的BitTorrent客户端。内置TrguiNG第三方汉化webui，支持监听种子目录'应用文件/Transmission/Download/watch'",
     "labels": "原生,下载,工具",
     "version": "4.1.1",
     "distributor": "shuangji66",
