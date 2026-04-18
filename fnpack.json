@@ -714,19 +714,19 @@
     ],
     "desc": "🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
     "labels": "原生,工具,网络",
-    "version": "6.16.8",
+    "version": "6.16.9",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "4.5",
-    "changelog": "上游添加对 EdgeOne 源站组的支持，允许动态更新源站 IP",
+    "changelog": "上游版本添加Dns提供商(HiPM-dnsmgr)",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.17/DDNS-GO-6.16.8-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.18/DDNS-GO-6.16.9-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.17/DDNS-GO-6.16.8-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.18/DDNS-GO-6.16.9-arm.fpk"
       }
     }
   }
