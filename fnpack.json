@@ -681,6 +681,20 @@
       }
     }
   },
+  "Tvheadend": {
+    "display_name": "Tvheadend",
+    "platform": "x86",
+    "desc": "📺Tvheadend 是领先的 Linux 电视流媒体服务器和数字录像机，可录制流媒体保存至本地。",
+    "labels": "原生,录制,工具",
+    "version": "4.3.0",
+    "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.18/Tvheadend-4.3.0-x86.fpk"，
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "31",
+    "changelog": "初始版本"
+  },
   "DDNS-GO": {
     "display_name": "DDNS-GO",
     "platform": [
