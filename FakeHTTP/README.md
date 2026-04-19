@@ -8,7 +8,7 @@ Obfuscate all your TCP connections into HTTP protocol, using Netfilter Queue (NF
 ## Quick Start
 
 ```
-⭐使用方法：按需添加伪装参数或添加payload.bin承载文件，根据实际网络情况逐渐调整跃点值大小直至“解除限速”。如果出现网络异常，关闭软件后重启飞牛os。受限于运营商及地区限制，该项目不保证有效解除网络限速。
+按需添加伪装参数或添加payload.bin承载文件，根据实际网络情况逐渐调整跃点值大小直至“解除限速”。如果出现网络异常，关闭软件后重启飞牛os。受限于运营商及地区限制，该项目不保证有效解除网络限速。
 ```
 
 
