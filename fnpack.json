@@ -51,7 +51,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "100 KB",
-    "changelog": "初始版本",
+    "changelog": "重构项目",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.18/FakeHTTP-0.9.18-17-x86.fpk"
@@ -63,16 +63,27 @@
   },
   "FakeSIP": {
     "display_name": "FakeSIP",
-    "platform": "x86",
+    "platform": [
+      "x86",
+      "arm"
+    ],
     "desc": "🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
     "labels": "原生,工具,网络",
-    "version": "0.9.1-4",
+    "version": "0.9.1-5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "120 KB",
-    "changelog": "初始版本"
+    "size": "100 KB",
+    "changelog": "重构项目",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.19/FakeSIP-0.9.1-5-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.19/FakeSIP-0.9.1-5-arm.fpk"
+      }
+    }
   },
   "cloudsaver": {
     "display_name": "CloudSaver",
