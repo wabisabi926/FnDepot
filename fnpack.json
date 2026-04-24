@@ -602,7 +602,7 @@
     ],
     "desc": "🐭使用Podman管理容器、Pod和镜像。root有根模式运行，为飞牛os额外添加一个容器环境。",
     "labels": "原生,系统,容器",
-    "version": "5.8.2",
+    "version": "5.8.2-1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
