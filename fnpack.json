@@ -608,13 +608,13 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "32",
-    "changelog": "初始版本",
+    "changelog": "修复主脚本停止指令失效;改进运行文件映射结构（为rootless运行准备）",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-1-arm.fpk"
       }
     }
   },
