@@ -1,4 +1,4 @@
-👧孩子不会写代码，但是孩子会shell，专注于原生fpk的打包，顺便翻新官方商店的老旧软件<br>
+👧孩子不会写代码，但是孩子会shell，专注于原生fpk的打包，顺便翻新官方商店的老旧软件，做着玩的<br>
 ❤️大部分项目都是二进制+webui，已支持Fndepot商店x86、arm双版本源<br>
 🐮逐步将部分项目转向action构建，感兴趣的可以参考：https://github.com/shuangji66/buildbot<br>
 👬点击链接加入群聊，反馈bug【FnDepot】：https://qm.qq.com/q/urCWH0aRYm<br>
