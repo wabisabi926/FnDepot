@@ -1,0 +1,1 @@
+<p>🐭使用Podman管理容器、Pod和镜像。root有根模式运行，rootless无根模式还没做出来。</p><p>⭐使用说明：本项目不含容器管理面板，需搭配Dpanel等面板使用。Dpanel面板添加socket监听：系统>多服务端>添加服务端>"服务类型podman;连接方式sock">Docker API 地址:"unix:///run/podman/podman.sock">保存</p>
