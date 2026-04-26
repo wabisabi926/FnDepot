@@ -600,21 +600,21 @@
       "x86",
       "arm"
     ],
-    "desc": "🐭使用Podman管理容器、Pod和镜像。root有根模式运行，为飞牛os额外添加一个容器环境。",
+    "desc": "🐭使用Podman管理容器、Pod和镜像，为飞牛os无痛添加另一个容器环境，不修改系统环境、目录权限。启动后以systemd服务后台运行，支持rootful有根模式与rootless无根模式同时运行与切换。",
     "labels": "原生,系统,容器",
-    "version": "5.8.2-1",
+    "version": "5.8.2-2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "32",
-    "changelog": "修复主脚本停止指令失效;改进运行文件映射结构（为rootless运行准备）",
+    "changelog": "重构项目：改进运行文件映射结构，修改数据存储路径，添加运行模式切换，改进启停脚本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.26/Podman-5.8.2-2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.24/Podman-5.8.2-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.26/Podman-5.8.2-2-arm.fpk"
       }
     }
   },
