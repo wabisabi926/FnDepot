@@ -31,19 +31,19 @@
     ],
     "desc": "🔧asdf 是一个工具版本管理器，可方便管理Ruby、NodeJS、Java、PHP、.Net在内的几百种运行环境，不影响系统的运行环境。",
     "labels": "原生,工具,系统",
-    "version": "0.18.0",
+    "version": "0.19.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "1.6",
-    "changelog": "初始版本，看readme",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/asdf-0.18.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/asdf-0.19.0-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/asdf-0.18.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/asdf-0.19.0-arm.fpk"
       }
     }
   },
