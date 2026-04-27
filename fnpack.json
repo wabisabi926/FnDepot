@@ -470,10 +470,10 @@
     "changelog": "添加完整bin映射，修复fndepot下载问题",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/java-25-openjdk-25.0.2-1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/java-25-openjdk-25.0.2-1-arm.fpk"
       }
     }
   },
