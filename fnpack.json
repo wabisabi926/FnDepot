@@ -561,19 +561,19 @@
     ],
     "desc": "🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。",
     "labels": "原生,工具,网页",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "55",
-    "changelog": "更新nginx-ui-2.3.10",
+    "changelog": "修改nginx-ui配置目录，适配一次性密钥，老用户更新会同步转移nginx-ui配置与数据库，修改向导选项描述",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.28/Nginx-1.2.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.29/Nginx-1.2.4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.28/Nginx-1.2.3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.29/Nginx-1.2.4-arm.fpk"
       }
     }
   },
