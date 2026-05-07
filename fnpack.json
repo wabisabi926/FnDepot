@@ -751,19 +751,19 @@
     ],
     "desc": "🍅番茄小说下载器不精简版本，支持在线更新。",
     "labels": "原生,下载,阅读",
-    "version": "2.4.8",
+    "version": "2.4.9",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "4",
-    "changelog": "更新上游版本",
+    "changelog": "增加TTS导出最大时长以支持超过10分钟的章节",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.3/Tomato-2.4.8-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.7/Tomato-2.4.9-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.3/Tomato-2.4.8-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.7/Tomato-2.4.9-arm.fpk"
       }
     }
   },
