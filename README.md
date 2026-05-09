@@ -45,6 +45,7 @@
 | qBittorrent-Enhanced | qBittorrent-Enhanced | 🧲qBittorrent增强版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
 | Read | 轻阅读 | 📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡软件依赖Java25环境，优先调用java-25-openj9。 |
 | Reader | Reader | 📚Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数 |
+| Reader-Rust | Reader-Rust | 📚基于reader重构的 Rust 版书源阅读服务端，支持自定义书源、多格式解析。 |
 | SBTI | SBTI人格测试 | 🌿卧槽，没一个诗人。 |
 | Teamspeaker | Teamspeaker | 👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。 |
 | Tomato | 番茄小说下载器 | 🍅番茄小说下载器不精简版本，支持在线更新。 |
