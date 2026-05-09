@@ -716,6 +716,30 @@
     "size": "66",
     "changelog": "修改Java依赖"
   },
+  "Reader-Rust": {
+    "display_name": "Reader-Rust",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📚基于reader重构的Rust版书源阅读服务端，支持自定义书源、多格式解析。",
+    "labels": "原生,阅读,工具",
+    "version": "1.0.3",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "10",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.13/qBittorrent-Enhanced-5.1.3-4-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.13/qBittorrent-Enhanced-5.1.3-4-arm.fpk"
+      }
+    }
+  },
   "SBTI": {
     "display_name": "SBTI人格测试",
     "platform": "all",
