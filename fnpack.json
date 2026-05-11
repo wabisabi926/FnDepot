@@ -724,19 +724,19 @@
     ],
     "desc": "📚基于reader重构的Rust版书源阅读服务端，支持自定义书源、多格式解析。",
     "labels": "原生,阅读,工具",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "10",
-    "changelog": "初始版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.9/Reader-Rust-1.0.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.11/Reader-Rust-1.0.4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.9/Reader-Rust-1.0.3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.11/Reader-Rust-1.0.4-arm.fpk"
       }
     }
   },
