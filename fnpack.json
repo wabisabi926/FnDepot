@@ -364,20 +364,20 @@
       "arm"
     ],
     "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
-    "labels": "原生,工具,JAVA",
-    "version": "11.0.30",
+    "labels": "原生,环境,JAVA",
+    "version": "11.0.31",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "52",
-    "changelog": "初始版本",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-11-openj9-11.0.30-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-11-openj9-11.0.31-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-11-openj9-11.0.30-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-11-openj9-11.0.31-arm.fpk"
       }
     }
   },
@@ -388,20 +388,20 @@
       "arm"
     ],
     "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
-    "labels": "原生,工具,JAVA",
-    "version": "17.0.18",
+    "labels": "原生,环境,JAVA",
+    "version": "17.0.19",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "52",
-    "changelog": "初始版本",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-17-openj9-17.0.18-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-17-openj9-17.0.19-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-17-openj9-17.0.18-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-17-openj9-17.0.19-arm.fpk"
       }
     }
   },
@@ -412,20 +412,20 @@
       "arm"
     ],
     "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
-    "labels": "原生,工具,JAVA",
-    "version": "21.0.10",
+    "labels": "原生,环境,JAVA",
+    "version": "21.0.11",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "56",
-    "changelog": "初始版本",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-21-openj9-21.0.10-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-21-openj9-21.0.11-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-21-openj9-21.0.10-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-21-openj9-21.0.11-arm.fpk"
       }
     }
   },
@@ -436,20 +436,20 @@
       "arm"
     ],
     "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
-    "labels": "原生,工具,JAVA",
-    "version": "25.0.2",
+    "labels": "原生,环境,JAVA",
+    "version": "25.0.3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "56",
-    "changelog": "初始版本",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-25-openj9-25.0.2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openj9-25.0.3-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.1/java-25-openj9-25.0.2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openj9-25.0.3-arm.fpk"
       }
     }
   },
