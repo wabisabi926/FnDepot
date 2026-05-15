@@ -537,7 +537,7 @@
     ],
     "desc": "✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。",
     "labels": "原生,工具,通知",
-    "version": "2.4.2",
+    "version": "2.4.2-1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -546,10 +546,10 @@
     "changelog": "同步上架x86、arm版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.13/Navidrom.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/MoveCar-2.4.2-1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.13/Navidr.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/MoveCar-2.4.2-1-arm.fpk"
       }
     }
   },
