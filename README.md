@@ -36,6 +36,7 @@
 | java-8-openj9 | java-8-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | Komga | Komga | 📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
+| MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
 | Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。 |
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
 | PeerBanHelper | PeerBanHelper | 🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。 |
