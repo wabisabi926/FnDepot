@@ -543,7 +543,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "1.3",
-    "changelog": "同步上架x86\arm版本",
+    "changelog": "同步上架x86、arm版本",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.13/Navidrom.fpk"
