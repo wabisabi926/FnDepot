@@ -381,6 +381,20 @@
       }
     }
   },
+  "HomePage": {
+    "display_name": "HomePage",
+    "platform": all,
+    "desc": "📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。",
+    "labels": "原生,面板,首页",
+    "version": "1.13.1",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/HomePage-1.13.1-all.fpk",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "6",
+    "changelog": "初始版本"
+  },
   "java-11-openj9": {
     "display_name": "java-11-openj9",
     "platform": [
