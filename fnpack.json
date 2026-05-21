@@ -357,8 +357,8 @@
       }
     }
   },
-  "HomeBox": {
-    "display_name": "HomeBox测速",
+  "Homebox": {
+    "display_name": "Homebox测速",
     "platform": [
       "x86",
       "arm"
