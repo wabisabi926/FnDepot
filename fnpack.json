@@ -971,5 +971,19 @@
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.26/Vaultwarden-1.35.4-arm.fpk"
       }
     }
+  },
+  "Xboard": {
+    "display_name": "Xboard面板",
+    "platform": "all",
+    "desc": "🐱Fluxor可选附加组件，飞牛cgi运行MetacubeXD和Zashboard面板，自带双飞牛入口，无需再反向代理面板，亦可搭配mihomo系内核使用。",
+    "labels": "原生,面板,工具",
+    "version": "1.0.0",
+    "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.21/Xboard-1.0.0-all.fpk"，
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3",
+    "changelog": "初始版本"
   }
 }
