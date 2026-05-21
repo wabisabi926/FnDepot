@@ -357,6 +357,30 @@
       }
     }
   },
+  "HomeBox": {
+    "display_name": "HomeBox测速",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🚀对网络进行调试、检测、压测的工具集合。",
+    "labels": "原生,测速,工具",
+    "version": "0.1.1",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Homebox-0.1.1-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Homebox-0.1.1-arm.fpk"
+      }
+    }
+  },
   "java-11-openj9": {
     "display_name": "java-11-openj9",
     "platform": [
