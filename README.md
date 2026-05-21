@@ -57,3 +57,4 @@
 | UnlockMusic | UnlockMusic | 🎶在浏览器中解锁加密的音乐文件（QQ音乐*、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜 |
 | uptime-kuma | uptime-kuma | 📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。 |
 | Vaultwarden | Vaultwarden密钥管理器 | 🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。 |
+| Xboard | Xboard面板 | 🐱赛博甜甜圈附加组件。 |
