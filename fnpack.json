@@ -975,7 +975,7 @@
   "Xboard": {
     "display_name": "Xboard面板",
     "platform": "all",
-    "desc": "🐱Fluxor可选附加组件，飞牛cgi运行MetacubeXD和Zashboard面板，自带双飞牛入口，无需再反向代理面板，亦可搭配mihomo系内核使用。",
+    "desc": "🐱赛博甜甜圈附加组件。",
     "labels": "原生,面板,工具",
     "version": "1.0.0",
     "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.21/Xboard-1.0.0-all.fpk"，
