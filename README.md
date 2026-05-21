@@ -34,6 +34,8 @@
 | java-25-openj9 | java-25-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-25-openjdk | java-25-openjdk | ☕OpenJDK version 25.0.2，包含Java开发环境和Java运行时环境（Java Runtime Environment），可全局调用 |
 | java-8-openj9 | java-8-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
+| Komari | Komari | 📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。 |
+| Komari-Agent | Komari-Agent | 📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。 |
 | Komga | Komga | 📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
 | MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
