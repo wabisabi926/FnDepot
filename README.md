@@ -29,6 +29,7 @@
 | Git | Git | 🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
 | Homebox | Homebox | 🚀对网络进行调试、检测、压测的工具集合。 |
+| HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
 | java-11-openj9 | java-11-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-17-openj9 | java-17-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-21-openj9 | java-21-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
