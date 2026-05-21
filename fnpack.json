@@ -501,6 +501,54 @@
       }
     }
   },
+  "Komari": {
+    "display_name": "Komari",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。",
+    "labels": "原生,监控,工具",
+    "version": "1.2.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "15",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-1.2.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-1.2.0-arm.fpk"
+      }
+    }
+  },
+  "Komari-Agent": {
+    "display_name": "Komari-Agent",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。",
+    "labels": "原生,监控,工具",
+    "version": "1.2.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "6",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-Agent-1.2.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-Agent-1.2.0-arm.fpk"
+      }
+    }
+  },
   "Komga": {
     "display_name": "Komga",
     "platform": "all",
