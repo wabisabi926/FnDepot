@@ -1023,5 +1023,30 @@
     "install_type": "存储空间",
     "size": "3",
     "changelog": "初始版本"
+  },
+  "Zdir": {
+    "display_name": "Zdir",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。",
+    "labels": "原生,文件,工具",
+    "version": "4.6.2",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "33",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.22/Zdir-4.6.2-x86.fpk"
+      },
+      "arm": {
+        "size": "28",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.22/Zdir-4.6.2-arm.fpk"
+      }
+    }
   }
 }
