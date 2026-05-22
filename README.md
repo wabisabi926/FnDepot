@@ -15,7 +15,7 @@
 | Aria2 | Aria2 | 🚀Aria2c最新源码构建+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。 |
 | asdf | asdf工具管理器 | 🔧asdf 是一个工具版本管理器，可方便管理Ruby、NodeJS、Java、PHP、.Net在内的几百种运行环境，不影响系统的运行环境。 |
 | BitComet | BitComet | ☄️BitComet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！ |
-| BitMeteor | BitMeteor | ☄️BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。 |
+| BitMeteor | BitMeteor | ☄️BitMeteor是为BitComet设计的飞牛通用软件框架，运行后自动下载并安装BitComet。 |
 | CloudDrive | CloudDrive2 | ☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。本项目root运行。 |
 | cloudsaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署 |
 | CloudSaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。 |
