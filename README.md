@@ -60,3 +60,4 @@
 | uptime-kuma | uptime-kuma | 📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。 |
 | Vaultwarden | Vaultwarden密钥管理器 | 🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。 |
 | Xboard | Xboard面板 | 🐱赛博甜甜圈附加组件。 |
+| Zdir | Zdir | 📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。 |
