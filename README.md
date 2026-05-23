@@ -43,6 +43,7 @@
 | MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
 | Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。 |
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
+| OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
 | PeerBanHelper | PeerBanHelper | 🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。 |
 | PhotoPrism | PhotoPrism相册 | 🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。 |
 | Podman | Podman | 🐭使用Podman管理容器、Pod和镜像，为飞牛os无痛添加另一个容器环境，不修改系统环境、目录权限。启动后以systemd服务后台运行，支持rootful有根模式与rootless无根模式同时运行与切换。 |
