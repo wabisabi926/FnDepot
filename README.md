@@ -46,6 +46,7 @@
 | OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
 | PeerBanHelper | PeerBanHelper | 🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。 |
 | PhotoPrism | PhotoPrism相册 | 🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。 |
+| Plex | Plex | 🎞️Plex 是一款媒体服务器软件，主要功能是让用户自己整理存储的电影、电视剧、音乐、照片等个人媒体文件，通过一个漂亮的界面统一管理，并能随时随地通过手机、电视、电脑等设备进行流式播放。 |
 | Podman | Podman | 🐭使用Podman管理容器、Pod和镜像，为飞牛os无痛添加另一个容器环境，不修改系统环境、目录权限。启动后以systemd服务后台运行，支持rootful有根模式与rootless无根模式同时运行与切换。 |
 | qBittorrent | qBittorrent | 🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
 | qBittorrent-Enhanced | qBittorrent-Enhanced | 🧲qBittorrent增强版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
