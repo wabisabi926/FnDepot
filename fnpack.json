@@ -212,6 +212,31 @@
     "size": "228 KB",
     "changelog": "更新上游版本，修正compose错误"
   },
+  "Embyserver": {
+    "display_name": "Embyserver",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。",
+    "labels": "原生,播放,影视",
+    "version": "4.9.5",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "481",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Embyserver-4.9.5-x86.fpk"
+      },
+      "arm": {
+        "size": "240",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Embyserver-4.9.5-arm.fpk"
+      }
+    }
+  },
   "FakeHTTP": {
     "display_name": "FakeHTTP",
     "platform": [
