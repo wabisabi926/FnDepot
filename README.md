@@ -22,6 +22,7 @@
 | DDNS-GO | DDNS-GO | 🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。 |
 | easytier | EasyTier | 🌐EasyTier是一个简单、安全、去中心化的异地组网方案。支持自定义web控制台用户名。 |
 | EasyTier | EasyTier | 🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。 |
+| Embyserver | Embyserver | 🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。 |
 | FakeHTTP | FakeHTTP | 🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，root运行，注意数据安全。 |
