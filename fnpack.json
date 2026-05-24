@@ -293,7 +293,7 @@
     ],
     "desc": "📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，root运行，注意数据安全。",
     "labels": "原生,工具,文件",
-    "version": "2.63.5-1",
+    "version": "2.63.5-2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -302,10 +302,10 @@
     "changelog": "适配飞牛统一网关，取消端口访问，请删除应用设置自定义url，本次升级会丢失旧配置",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.24/Filebrowser-2.63.5-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.24/Filebrowser-2.63.5-2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.24/Filebrowser-2.63.5-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.24/Filebrowser-2.63.5-2-arm.fpk"
       }
     }
   },
