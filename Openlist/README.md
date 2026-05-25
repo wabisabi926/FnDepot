@@ -1,0 +1,2 @@
+<p>📂一个支持多种存储的文件列表程序。</p><p>⭐使用说明：添加本地存储需添加相应目录权限，更多存储设置请参考<a href="https://doc.oplist.org/guide" target="\_blank">官方文档</a>。反代使用飞牛统一网关路径"http(s)://fn地址/app/Openlist"或套接字"unix:/var/apps/Openlist/target/app.sock"</p>
+
