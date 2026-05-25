@@ -46,6 +46,7 @@
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
 | OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
 | Openlist | Openlist | 📂一个支持多种存储的文件列表程序。支持飞牛统一网关访问。 |
+| Openlist-beta | Openlist-Beta | 📂一个支持多种存储的文件列表程序。支持飞牛统一网关访问。 |
 | PeerBanHelper | PeerBanHelper | 🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。 |
 | PhotoPrism | PhotoPrism相册 | 🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。 |
 | Plex | Plex | 🎞️Plex 是一款媒体服务器软件，主要功能是让用户自己整理存储的电影、电视剧、音乐、照片等个人媒体文件，通过一个漂亮的界面统一管理，并能随时随地通过手机、电视、电脑等设备进行流式播放。 |
