@@ -25,7 +25,7 @@
 | Embyserver | Embyserver | 🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。 |
 | FakeHTTP | FakeHTTP | 🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
-| Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问和端口访问切换。 |
+| Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。 |
 | Fluxor | 赛博甜甜圈 | 😉不可描述之物。品赛博甜甜圈，养电子宠物。 |
 | Git | Git | 🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
@@ -42,7 +42,7 @@
 | Komga | Komga | 📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
 | MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
-| Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。支持飞牛统一网关访问。 |
+| Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。支持飞牛统一网关访问并自动登录和端口访问切换。 |
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
 | OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
 | Openlist | Openlist | 📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。 |
