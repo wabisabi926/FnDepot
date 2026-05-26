@@ -883,19 +883,19 @@
     ],
     "desc": "🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动，支持切换libtorrent版本。",
     "labels": "原生,下载,工具",
-    "version": "5.2.0-1",
+    "version": "5.2.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "46",
-    "changelog": "添加libtorrent1.2版核心，更新vuetorrent面板",
+    "changelog": "更新核心",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.20/qBittorrent-5.2.0-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.26/qBittorrent-5.2.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.20/qBittorrent-5.2.0-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.26/qBittorrent-5.2.1-arm.fpk"
       }
     }
   },
