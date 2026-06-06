@@ -446,17 +446,27 @@
   },
   "igame": {
     "display_name": "金太阳小游戏平台",
-    "platform": "all",
-    "desc": "☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，部分游戏不太好用，但是有捕鱼达人，那还说啥，移动端可能显示操作不正常，当个乐子玩。",
-    "labels": "原生,游戏,网页",
-    "version": "1.0.0",
-    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.27/igame-1.0.0-all.fpk",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，当个乐子玩。",
+    "labels": "原生,网页,游戏",
+    "version": "1.1.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "71",
-    "changelog": "初始版本"
+    "changelog": "切换端口访问",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/igame-1.1.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/igame-1.1.0-arm.fpk"
+      }
+    }
   },
   "java-11-openj9": {
     "display_name": "java-11-openj9",
