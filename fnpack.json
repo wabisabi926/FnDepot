@@ -317,7 +317,7 @@
     ],
     "desc": "😉不可描述之物。品赛博甜甜圈，养电子宠物。",
     "labels": "原生,科学,网络",
-    "version": "1.4.16",
+    "version": "1.4.17",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -326,11 +326,11 @@
     "changelog": "",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.1/Fluxor-1.4.16-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/Fluxor-1.4.17-x86.fpk"
       },
       "arm": {
         "size": "21",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.1/Fluxor-1.4.16-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/Fluxor-1.4.17-arm.fpk"
       }
     }
   },
