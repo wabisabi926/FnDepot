@@ -133,19 +133,19 @@
     ],
     "desc": "☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。",
     "labels": "原生,搜索,网盘",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "58",
-    "changelog": "上游新增支持光鸭资源链接",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.20/CloudSaver-0.8.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.6/CloudSaver-0.8.4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.20/CloudSaver-0.8.3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.6/CloudSaver-0.8.4-arm.fpk"
       }
     }
   },
