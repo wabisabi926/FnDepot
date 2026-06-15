@@ -92,9 +92,9 @@
       "x86",
       "arm"
     ],
-    "desc": "☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。本项目root运行，注意数据安全。",
+    "desc": "☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。root运行，注意数据安全。",
     "labels": "原生,文件,网盘",
-    "version": "1.0.8",
+    "version": "1.0.10",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -103,10 +103,10 @@
     "changelog": "上游更新版本，修复安全漏洞，改进挂载性能",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.25/CloudDrive-1.0.8-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/CloudDrive-1.0.10-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.25/CloudDrive-1.0.8-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/CloudDrive-1.0.10-arm.fpk"
       }
     }
   },
@@ -620,19 +620,19 @@
     ],
     "desc": "📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。",
     "labels": "原生,监控,工具",
-    "version": "1.2.0",
+    "version": "1.2.3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "15",
-    "changelog": "初始版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-1.2.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Komari-1.2.3-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-1.2.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Komari-1.2.3-arm.fpk"
       }
     }
   },
@@ -644,19 +644,19 @@
     ],
     "desc": "📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。",
     "labels": "原生,监控,工具",
-    "version": "1.2.0",
+    "version": "1.2.13",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "6",
-    "changelog": "初始版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-Agent-1.2.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Komari-Agent-1.2.13-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Komari-Agent-1.2.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Komari-Agent-1.2.13-arm.fpk"
       }
     }
   },
@@ -1233,17 +1233,27 @@
   },
   "Xboard": {
     "display_name": "Xboard面板",
-    "platform": "all",
+    "platform": [
+      "x86",
+      "arm"
+    ],
     "desc": "🐱赛博甜甜圈附加组件。",
     "labels": "原生,面板,工具",
-    "version": "1.0.1",
-    "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.26/Xboard-1.0.1-all.fpk",
+    "version": "2.0.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "3",
-    "changelog": "更新面板"
+    "size": "6",
+    "changelog": "重构项目"，
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Xboard-2.0.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Xboard-2.0.0-arm.fpk"
+      }
+    }
   },
   "Zdir": {
     "display_name": "Zdir",
