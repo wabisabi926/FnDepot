@@ -1245,7 +1245,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "6",
-    "changelog": "重构项目"，
+    "changelog": "重构项目",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Xboard-2.0.0-x86.fpk"
