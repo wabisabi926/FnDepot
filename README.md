@@ -26,7 +26,7 @@
 | FakeHTTP | FakeHTTP | 🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。 |
-| Fluxor | 赛博甜甜圈 | 😉不可描述之物。品赛博甜甜圈，养电子宠物。 |
+| Fluxor | 三体甜甜圈 | 😉不可描述之物。经过三体人改造的赛博甜甜圈。 |
 | Git | Git | 🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。 |
 | golang | Go | 🔧Golang开发环境。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
