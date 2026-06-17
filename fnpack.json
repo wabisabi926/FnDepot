@@ -310,27 +310,27 @@
     }
   },
   "Fluxor": {
-    "display_name": "赛博甜甜圈",
+    "display_name": "三体甜甜圈",
     "platform": [
       "x86",
       "arm"
     ],
-    "desc": "😉不可描述之物。品赛博甜甜圈，养电子宠物。",
+    "desc": "😉不可描述之物。经过三体人改造的赛博甜甜圈。",
     "labels": "原生,科学,网络",
-    "version": "1.4.17",
+    "version": "2.0.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "60",
+    "size": "65",
     "changelog": "",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/Fluxor-1.4.17-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.18/Fluxor-2.0.0-x86.fpk"
       },
       "arm": {
-        "size": "21",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/Fluxor-1.4.17-arm.fpk"
+        "size": "28",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.18/Fluxor-2.0.0-arm.fpk"
       }
     }
   },
