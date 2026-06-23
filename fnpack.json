@@ -962,7 +962,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "28",
-    "changelog": "更新上游最新action构建版，更新vuetorrent面板",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.23/qBittorrent-Enhanced-5.2.1-x86.fpk"
