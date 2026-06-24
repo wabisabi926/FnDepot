@@ -322,14 +322,14 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "83",
+    "size": "73",
     "changelog": "改进概览",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.23/Fluxor-2.3.8-x86.fpk"
       },
       "arm": {
-        "size": "40",
+        "size": "30",
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.23/Fluxor-2.3.8-arm.fpk"
       }
     }
