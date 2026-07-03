@@ -317,20 +317,20 @@
     ],
     "desc": "😉不可描述之物。经过三体人改造的赛博甜甜圈。",
     "labels": "原生,科学,网络",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "73",
-    "changelog": "添加使用文档，改进前端结构，增强后端安全性，修复已知bug",
+    "changelog": "代理组支持hidden字段隐藏，改进订阅模板，tproxy功能改进",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.2/Fluxor-2.4.1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.3/Fluxor-2.4.2-x86.fpk"
       },
       "arm": {
         "size": "30",
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.2/Fluxor-2.4.1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.3/Fluxor-2.4.2-arm.fpk"
       }
     }
   },
